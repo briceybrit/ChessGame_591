@@ -1,5 +1,6 @@
 
 public class ChessPiece {
+//Commented by Ian Park
 	
 	String color;
 	String type;
