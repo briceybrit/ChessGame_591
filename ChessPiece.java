@@ -1,4 +1,4 @@
-
+* Commented by Ian Park
 public class ChessPieces {
 	
 	String color;
